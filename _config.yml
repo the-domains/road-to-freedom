@@ -1,4 +1,3 @@
-layout_spectrum: 0.8147822050377727
 typography_spectrum: 0.6047631609253585
 color:
   brandStrength: 0.8952764682471752
@@ -11,5 +10,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+layout_spectrum: 0.8147822050377727
 name: Road To Freedom
 title: Find Your Path
+description: Begin here...
